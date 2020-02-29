@@ -1,0 +1,3 @@
+C:\Users\KNOWN\Documents\immersion\ListSong\mysqlefcore\obj\MCD\Debug\netcoreapp3.1\mysqlefcore.csprojAssemblyReference.cache
+C:\Users\KNOWN\Documents\immersion\ListSong\mysqlefcore\obj\MCD\Debug\netcoreapp3.1\mysqlefcore.AssemblyInfoInputs.cache
+C:\Users\KNOWN\Documents\immersion\ListSong\mysqlefcore\obj\MCD\Debug\netcoreapp3.1\mysqlefcore.AssemblyInfo.cs
